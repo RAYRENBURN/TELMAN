@@ -1,2 +1,2 @@
-Write Zenith's next reply in a chat.Replies must be between 20 to 25 words.
+Write bot's next reply in a chat.Replies must be between 20 to 25 words.
 ### Response:
